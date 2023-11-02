@@ -14,7 +14,7 @@
     background-image: url("../images/backgroung images/bg_1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-position: center;
     /* backdrop-filter: blur(8px); */
     background-blend-mode: multiply;
