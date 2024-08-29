@@ -1,6 +1,6 @@
-# LED KLN Web Site using Bootstrap v5.3.1 | AOS
+# Landing Page for PE UOK using Bootstrap v5.3.1 | AOS
 
-_LED KLN is a student-run body initiated at the University of Kelaniya to groom the professionalism of undergraduates. They already have a website and improve the UI/UX experience by fine tunning the structure and content is the main purpose of this project._
+_Physics and Electronic students had a initial idea of having website in order to deal with future development. Then this is the design of that website._
 
 ## Table of contents
 
@@ -16,21 +16,19 @@ _LED KLN is a student-run body initiated at the University of Kelaniya to groom 
 
 ### Screenshot - Desktop View - Home
 
-![](./Resources/images/design/Screenshot%20LED%20KLN-home-d.png)
+![](./Resources/images/design/Screenshot%20Physics%20&%20Electronics%20UoK-d.png)
 
 
 ### Screenshot - Mobile View - Home
 
-![](./Resources/images/design/Screenshot%20LED%20KLN-home-m.png)
+![](./Resources/images/design/Screenshot%20Physics%20&%20Electronics%20UoK-m.png)
 
 
-> [!NOTE]
-> This website has other pages including Our Programmes, News and Features, Magazine, Blog 
 
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://achinthyadulshan.github.io/LED-KLN.github.io/)
+- Live Site URL: [GitHub Pages](https://achinthyadulshan.github.io/PEweb.github.io/)
 
 ## My process
 
